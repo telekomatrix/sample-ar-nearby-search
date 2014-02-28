@@ -1,0 +1,14 @@
+{
+"reponame":"sample-ar-nearby-search",
+"title":"AR Location Search",
+"abbr":"AR City Search",
+"tooltip":"A sample app developed with HTML5 and uses Cordova* APIs to access device's compass, accelerometer and geolocation information.",
+"description":"A sample app developed with HTML5 and uses Cordova* APIs to access device's compass, accelerometer and geolocation information.",
+"articleUrl":"http://software.intel.com/en-us/html5/articles/augmented-reality-mobile-app-with-html5",
+"keywords":["jQuery", "intel.xdk API"],
+"visible" : "true",
+"highlights" : ["jQuery", "intel.xdk API"],
+"apppreview":"false",
+"appname":"demo.arnearbysearch",
+"relname":"4.0.0"
+}
